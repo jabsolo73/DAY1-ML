@@ -1,1 +1,1 @@
-# DAY1-ML
+# machine learning
